@@ -69,8 +69,7 @@ class Header1 extends Component {
                     </li>
                     <li>
                       <i className="ti-location-pin m-r5"></i>
-                      Jl. Raya Pasir Putih, Ruko
-                      Sawangan Permai
+                      Jl. Kemang No. 63 RT 03 RW 06 Kp. Kekupu
                     </li>
                   </ul>
                 </div>
